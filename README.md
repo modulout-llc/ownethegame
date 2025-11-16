@@ -1,6 +1,13 @@
 <h1 align="center">OwnTheGame – Automated Tipster Performance Tracking</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/type-SaaS-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/platform-Hosted-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-commercial-orange?style=flat-square" />
+</p>
+
+<p align="center">
   Track your betting results automatically. Clean analytics, ROI stats and professional performance pages for tipsters.
 </p>
 
